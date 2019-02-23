@@ -8,8 +8,8 @@
 // #define calc_veloctiy_timer 55555   //111111
 // #define calc_veloctiy_timer_multiplier (1000000*60)/(135*calc_veloctiy_timer)
 
-#include "../components/motion/motion.h"
-#include "../components/pin_defs_for_motor/pin_defs_for_motor.h"
+#include "../../components/motion/motion.h"
+#include "../../components/pin_defs_for_motor/pin_defs_for_motor.h"
 // int pwm = 0;
 // int motor_velocity;
 
